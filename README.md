@@ -1,37 +1,19 @@
 ## Drew Jackson
 
-You can use the [editor on GitHub](https://github.com/jacksdre/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a student at The Ohio State University and a I am pursuing a bachelor's degree in computer science and engineering. I am currently employed by Mars Petcare and head the Inventory Control team at the largest pet food manufacturing facility in North America. The amount of data, analysis, and work with databases that this job demands had me questioning ways that software could improve job processes and started my interest in software development.  
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+Through my course work at OSU I have developed working ability in C++, Java, and Swift. Outside of normal course work I am working on a certificate course for app development with Swift. I was new to the language and app development in general but have since completed the first 3 chapters of Apples App Development with Swift book along with all labs. With this experience I have learned the fundementals of the Swift language. How to build basic apps with the UIKit in Xcode and how to make a user friendly experience with the principles outlined in Apples iOS Human Interface Guidelines.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacksdre/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
