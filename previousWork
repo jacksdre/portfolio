@@ -1,9 +1,9 @@
 ## Apple Pie
 This app show cases the skills that I have learned thoughout the App Development with Swift course and how I am able
-to apply the design principles ton create a visually appealing exerience.
+to apply the design principles to create a visually appealing exerience.
 The app can be downloaded here: [link](https://github.com/jacksdre/portfolio/blob/master/Apple%20Pie.xcodeproj.zip)
 
-Use of multiple views, layering button grids and image views, while constraining them to fit and size ipad.
+Use of multiple views, layering button grids and image views, while constraining them to fit and size on ipad.
 
-updating UI as player makes moves,every button pressed is disabled and, each wrong answer drops a an apple and each correct
+Updating UI as player makes moves,every button pressed is disabled and, each wrong answer drops a an apple and each correct
 answer reveals a letter of the word to be guessed.
